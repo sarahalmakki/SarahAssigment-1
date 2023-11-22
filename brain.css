@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    font-family: Arial;
+}
+.section-1 {
+background-color: blue;
+color: white;
+display: flex;
+flex-direction: row;
+text-align: center;
+}
+input[type='button'] {
+    padding: 7px 7px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 15px;
+}
+
+.headline-1 {
+font-size: medium;
+border: 0px;
+
+}
+.section2{
+  background-color: blue;  
+  display: flex;
+  flex-direction: row;
+  border-radius: 5px;
+  text-align: center;
+}
